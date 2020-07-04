@@ -1,0 +1,17 @@
+{
+  "topogram_view": {
+    "searchbox": "Lookup a node"
+  },
+  "filter" : {
+    "chose" : "Choose from type",
+    "title" : "Filter nodes by type",
+    "byDegree" : "Filter by degree",
+    "byTime" : "Filter by time",
+    "clear" : "Clear"
+  },
+  "infobox": {
+    "group" : "group"
+  },
+  "neighborhood" : "neighborhood",
+  "Show Neighbors List" : "Show Neighbors List"
+}
