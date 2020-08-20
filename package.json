@@ -5,7 +5,7 @@
   "main": "topogram.js",
   "dependencies": {
     "@stdlib/stdlib": "0.0.40",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "c3": "^0.4.23",
     "cytoscape": "2.7.2",
     "cytoscape-cola": "^1.4.1",
